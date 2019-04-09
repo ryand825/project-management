@@ -1,4 +1,6 @@
-# Chapter 2 - project vs operations
+# Chapter 2
+
+### project vs operations
 
 Project - Scope of work with beginning and end
 Operations - Day to day, routine
